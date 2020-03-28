@@ -1,10 +1,9 @@
 import React from "react";
 import { render } from "react-dom";
 import "./styles.scss";
-import "index.css";
+import "./index.css";
 import {
   EuiText,
-  EuiSpacer,
   EuiFlexGrid,
   EuiFlexItem,
   EuiIcon,
